@@ -26,8 +26,8 @@ Thanks so much to the Unity3D, JavaScript (React, VueJS, Nuxt/Next, Unreal Engin
 
 ## **Contact us now!**
 
-* For all inquiries : [mailto:hello@bytebakers.app](hello@bytebakers.app)
-* Support: [mailto:support@bytebakers.app](support@bytebakers.app)
+* For all inquiries : [hello@bytebakers.app](mailto:hello@bytebakers.app)
+* Support: [support@bytebakers.app](mailto:support@bytebakers.app)
 
 We are open for collaborations and we always need to hire freelancers for the moment, if you want to be part of the project let us know by writing us an e-mail! Feel free anytime, we don't *byte*, I promise 🤗
 
